@@ -1,1 +1,1 @@
-# F3-module-Test wheather application
+# F3-module-Test weather application
